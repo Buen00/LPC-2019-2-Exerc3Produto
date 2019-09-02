@@ -1,0 +1,36 @@
+@model IEnumerable<crudproduto.Models.Carro>
+</br></br>
+<a href="Produto/Create" class="btn btn-primary">Novo Produto</a>
+</br></br>
+
+<div class="container">
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Fabricante</th>
+                <th>Categotia</th>
+                <th>Modelo</th>
+                <th>Ano Fabricação</th>
+                <th>Tipo</th>
+                <th></th>
+                <th></th>
+            </tr>
+            </tr>
+        </thead>
+
+        @foreach(var item in Model)
+        {
+            <tr>
+                <td>@item.id</td>
+                <td>@item.fabricante</td>
+                <td>@item.categoria</td>
+                <td>@item.modelo</td>
+                <td>@item.ano_fab</td>
+                <td>@item.tipo</td>
+                <td><a class="btn btn-danger" href="Produto/Delete/@item.id">Delete</a> </td>
+                <td><a class="btn btn-primary" href="Produto/Edit/@item.id">Editar</a> </td>
+            </tr>
+        }
+    </table>
+</div>
