@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Ulbra\\Linguagem Comercial I\\crudproduto\\produto\\produto.csproj": {}
+    "c:\\Users\\PC\\OneDrive\\Documentos  Faculdade\\10º semestre\\Comercial 1\\github\\LPC-2019-2-Exerc3Produto\\produto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Ulbra\\Linguagem Comercial I\\crudproduto\\produto\\produto.csproj": {
+    "c:\\Users\\PC\\OneDrive\\Documentos  Faculdade\\10º semestre\\Comercial 1\\github\\LPC-2019-2-Exerc3Produto\\produto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Ulbra\\Linguagem Comercial I\\crudproduto\\produto\\produto.csproj",
+        "projectUniqueName": "c:\\Users\\PC\\OneDrive\\Documentos  Faculdade\\10º semestre\\Comercial 1\\github\\LPC-2019-2-Exerc3Produto\\produto.csproj",
         "projectName": "produto",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Ulbra\\Linguagem Comercial I\\crudproduto\\produto\\produto.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Ulbra\\Linguagem Comercial I\\crudproduto\\produto\\obj\\",
+        "projectPath": "c:\\Users\\PC\\OneDrive\\Documentos  Faculdade\\10º semestre\\Comercial 1\\github\\LPC-2019-2-Exerc3Produto\\produto.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\PC\\OneDrive\\Documentos  Faculdade\\10º semestre\\Comercial 1\\github\\LPC-2019-2-Exerc3Produto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
